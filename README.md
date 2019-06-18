@@ -1,1 +1,1 @@
-Repository containing simple project written with React.
+Repository containing simple projects written with React.
