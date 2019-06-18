@@ -1,1 +1,1 @@
-pics  README.md  videos
+Repository containing simple project written with React.
